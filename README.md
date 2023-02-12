@@ -4,7 +4,7 @@
 On this repo we will learn how to create REST API using Springboot, 
 that apis will have CRUD function for connecting, storing and searching data to Elastic Search. 
 
-If you want read the full articles all about this repo, you can see on this article [https://deni-setiawan.medium.com/] (https://deni-setiawan.medium.com/create-rest-api-using-springboot-for-searching-data-to-elastic-search-8ee3c0fa2ec9)
+If you want read the full articles all about this repo, you can see on this article [https://deni-setiawan.medium.com/](https://deni-setiawan.medium.com/create-rest-api-using-springboot-for-searching-data-to-elastic-search-8ee3c0fa2ec9)
 
 ### Requirements
 - Maven 3+
