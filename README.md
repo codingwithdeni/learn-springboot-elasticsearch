@@ -31,4 +31,14 @@ If you want read the full articles all about this repo, you can see on this arti
 
 
 
+### APis
+| Method | URL APIs                                 | Description              | Client  |
+|--------|------------------------------------------|--------------------------|----------|
+| POST   | localhost:8181/api/elastic/product   | save or update  | Postman  |
+| DELETE | localhost:8181/api/elastic/product/{id}    | delete by   | Postman  |
+| GET    | localhost:8181/api/elastic/product/{id}    | search by id  | Postman  |
+| GET    | localhost:8181/api/elastic/product    | search all  | Postman  |
+
+
+
 
